@@ -1,5 +1,8 @@
 # SFML_Online_Games
 
+Release.exe can run directly
+
+
 a platfrom with several mini-games.
 all basic on a simple and fast multimedia library named SFML.
 
@@ -19,7 +22,14 @@ content instruction:
   
   
   
-  The instructions for each game is planned to be added.
+The instructions for each game is planned to be added.
   
-  The implementation of the SFML-game comes from github.
   
+  
+  
+The implementation of the SFML-game: www.bilibili.com BV1ME411K7yg
+  
+
+
+linux intstall SFML: apt-get install libsfml-dev
+                     or visit official website of SFML.
