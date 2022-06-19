@@ -1,5 +1,7 @@
 # SFML_Online_Games
 
+to be perfected...
+
 Release.exe can run directly
 
 
