@@ -1,0 +1,121 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Game.cpp
+  gamecode.cpp
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(98,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(115,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(129,53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(181,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(192,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(192,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(201,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(201,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(205,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(205,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(210,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(210,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(328,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(338,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(378,16): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(409,34): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(426,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(426,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(434,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(434,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(441,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(441,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(459,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(471,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(523,16): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(553,34): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(608,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(608,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(616,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(616,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(623,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(623,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(638,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(638,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(646,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(646,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(653,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(653,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(674,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(686,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(734,16): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(764,34): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(818,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(818,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(826,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(826,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(833,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(833,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(848,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(848,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(856,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(856,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(863,58): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(863,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(886,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(898,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(946,16): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(976,34): warning C4305: “=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1040,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1040,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1048,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1048,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1055,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1055,25): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1070,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1070,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1078,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1078,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1085,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1085,38): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1106,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1141,12): warning C4305: “+=”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1142,8): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1149,27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1157,24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1157,21): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1163,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1163,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1217,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1235,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1242,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1242,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1274,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1285,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1286,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1326,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1335,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1335,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1370,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1381,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1382,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1461,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1470,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1470,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1502,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1513,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1514,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1590,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1599,18): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1599,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1631,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1642,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Desktop\SFML_Online_Games\Project1\gamecode.cpp(1643,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  GraphicsSettings.cpp
+  Gui.cpp
+  main.cpp
+  MenuState.cpp
+  server.cpp
+  SettingsState.cpp
+D:\Desktop\SFML_Online_Games\Project1\SettingsState.cpp(82,3): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  State.cpp
+  stdafx.cpp
+  SubmenuState.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1706 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> D:\Desktop\SFML_Online_Games\x64\Release\SFML_Online_Games.exe
