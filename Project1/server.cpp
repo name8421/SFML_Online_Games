@@ -36,13 +36,13 @@ void room::run() {
 				room::status = GAMING;
 				this->remote_add = _ip;
 				this->remote_port = _port;
-				std::cout << "send JOINRET to " << _ip <<": " << _port << std::endl;
+				std::cout << "send JOINRET to " << _ip << ": " << _port << std::endl;
 				break;
 			default:
 				break;
 			}
 		}
-		else if (room::status == GAMING) {
+		else if (room::status == GAMING && this->remote_add == _ip) {
 			switch (_type) {
 			case GAMEDATA:
 				break;
